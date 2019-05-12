@@ -1,7 +1,7 @@
 		<?php include "partials/header.php" ?>
 	
 	<div class="container">
-		
+		a
 		<!-- Navegacion -->
 		<div class="content-banner">
 
